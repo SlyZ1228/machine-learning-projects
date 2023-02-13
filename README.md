@@ -7,13 +7,13 @@ hi! im zayan, a high school junior living in houston, texas! im interested in th
 - baseball pitch type predictor ✅
 - stock price predictor using linear regression ✅
 - linear regression from scratch ✅
+- breast cancer predictor using k nearest neighbors model ✅
 
 ## in-progress projects
 
-- k nearest neighbors classification example using sklearn
+- k nearest neighbors from scratch
 
 ## future project ideas
 
 - support vector machine (svm) classification example using sklearn
 - support vector machine (svm) from scratch
-- k nearest neighbors from scratch
